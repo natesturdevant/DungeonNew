@@ -1,0 +1,1 @@
+var gamefiles = ['audio.vox', 'Dungeon Render Test 2.ags', 'map-1.txt', 'map-2.txt', 'map-3.txt', 'acsetup.cfg'];
